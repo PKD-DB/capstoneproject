@@ -28,9 +28,7 @@ pip install -r requirements.txt
 
 ## Deployement on render
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://dashboard.render.com/login)
-
+![](https://dashboard.render.com/login)
 Our next step would be to follow the instruction given on https://render.com/docs/deploys to deploy a web app.
 
 ## Directory Tree 
